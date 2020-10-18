@@ -14,4 +14,3 @@ jobs:
           java-version: 11
       - name: Build & test
         run: ./gradlew build
-
